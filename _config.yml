@@ -9,12 +9,12 @@
 #
 # url is site domain, full URL to the production location of your collection
 # on GitHub Pages follows the pattern username.github.io
-#url: https://collectionbuilder.github.io 
+url: https://angelazoss.com
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
-#baseurl: /collectionbuilder-gh 
+baseurl: /collectionbuilder-sheets-test
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
+source-code: https://github.com/amzoss/collectionbuilder-sheets-test
 
 ##########
 # SITE SETTINGS
@@ -36,7 +36,7 @@ author: CollectionBuilder
 # This will be the full URL to your CSV file or relative path + filename of CSV in this repository 
 # e.g. relative path "/assets/demo-metadata.csv"
 # e.g. published google sheet "https://docs.google.com/spreadsheets/d/e/2PACX-1vSn7AA-cbsXT3_nNUGftc1ab-CKXOJHMQCIENeR9NHElbyI9_qA99o0-HNZdG04v-M2_N21bUe_krQQ/pub?gid=0&single=true&output=csv"
-metadata-csv: /assets/demo-metadata.csv
+metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vQcnZ6x1nemjktCLOgPzRLv22KLGBqq0gWs8YAUwqSqkfH3UOd15UpJ1bHLyoy4KGGos5JpENClcmyE/pub?gid=0&single=true&output=csv
 
 ##########
 # GOOGLE SERVICES [optional!]
